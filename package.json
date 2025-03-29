@@ -1,5 +1,5 @@
 {
-  "name": "react-native-map-clustering",
+  "name": "react-native-custom-map-clustering",
   "version": "3.4.4",
   "description": "React Native Map Clustering both for Android and iOS",
   "types": "index.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/venits/react-native-map-clustering.git"
+    "url": "git+https://github.com/bionicmaster/react-native-custom-map-clustering.git"
   },
   "keywords": [
     "react-native",
@@ -20,12 +20,12 @@
     "map",
     "clustering"
   ],
-  "author": "Venits",
+  "author": "Bionicmaster+Venits",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/venits/react-native-map-clustering/issues"
+    "url": "https://github.com/bionicmaster/react-native-custom-map-clustering/issues"
   },
-  "homepage": "https://github.com/venits/react-native-map-clustering#readme",
+  "homepage": "https://github.com/bionicmaster/react-native-custom-map-clustering#readme",
   "dependencies": {
     "supercluster": "^8.0.1",
     "@placemarkio/geo-viewport": "^1.0.2"
