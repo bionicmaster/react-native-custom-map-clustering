@@ -18,7 +18,7 @@ This repo is proudly sponsored by:
 ## Installation
 
 ```js
-npm install react-native-custom-map-clustering react-native-maps --save
+npm install react-native-custom-colored-map-clustering react-native-maps --save
 // yarn add react-native-map-clustering react-native-maps
 ```
 
