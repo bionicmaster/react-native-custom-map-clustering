@@ -1,4 +1,4 @@
-declare module "react-native-map-clustering" {
+declare module "react-native-custom-colored-map-clustering" {
   import * as React from "react";
   import { LayoutAnimationConfig } from "react-native";
   import Map, { MapViewProps, Marker } from "react-native-maps";
